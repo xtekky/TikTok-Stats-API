@@ -1,3 +1,16 @@
+
+<h1 align="center">💎TTKAPI [ TikTok Stats API ]</h1>
+
+<p align='center'>
+  <b>Star ⭐ to keep free</b><br>
+</p>
+
+## Endpoint:
+
+```python
+https://api.xtekky.com/tiktok/video?link=
+```
+
 ## Usage:
 
 ### Python
